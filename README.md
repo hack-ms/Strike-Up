@@ -63,7 +63,7 @@ Visualizador do Banco de dados `http://localhost:8089`
 ## Autores
 
 * **Fabio Ferreira** - *Desenvolvedor front-end* - [Github](https://github.com/fabiomferreira)
-* **Matheus Oliveira** - *Desenvolvedor front-end* - [Github](https://github.com/matheus21)
+* **Matheus Oliveira** - *Desenvolvedor back-end* - [Github](https://github.com/matheus21)
 * **Renan Batista** - *Desenvolvedor back-end* - [Github](https://github.com/renanprogramador)
 * **Victor Lopes** - *Desenvolvedor back-end* - [Github](https://github.com/theguitarvity)
 
